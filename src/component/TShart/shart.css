@@ -1,0 +1,11 @@
+.t_shart img{
+
+height: 250px;
+
+}
+.t_shart{
+   
+    border: 1px solid slategrey;
+    border-radius: 10px;
+    padding: 15px;
+}
